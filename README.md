@@ -1,2 +1,4 @@
 ### Hello folks! 👋
-I am currently learning...
+
+*Education
+School1
